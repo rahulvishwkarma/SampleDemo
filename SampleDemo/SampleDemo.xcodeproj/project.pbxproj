@@ -461,6 +461,7 @@
 				04958FE31AAB7682005F2F2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04958FE41AAB7682005F2F2B /* Build configuration list for PBXNativeTarget "SampleDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				04958FE61AAB7682005F2F2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
